@@ -32,8 +32,9 @@ export default function Services() {
             function() {
                 
                 $(this).css({
-                    'background-color': 'rgba(0, 0, 0, 0.5)', 
-                    'transform': 'scale(1.1)', 
+                    'background-color': 'rgba(0, 0, 0, 1)',
+                    'transform': 'scale(1.1)',
+                    'transition': 'all 0.5s ease-in-out',
                 });
             },
             function() {

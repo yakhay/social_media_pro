@@ -26,7 +26,8 @@ export default function GetInTouch() {
                 
                 $(this).css({
                     'background-color': '#f1f1f1', 
-                    'transform': 'scale(1.1)', 
+                    'transform': 'scale(1.05)', 
+                    "transition": "all 0.5s ease-in-out",
                     'color': 'black',
                 });
             },

@@ -13,10 +13,12 @@
     background-color: #03728A;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
-    padding: 10px 0 0px 0;
     border-radius: 12px;
+    
+    /* margin: 0; */
+    padding: 20px 0 0 0;
 }
 .Service h2
 {
@@ -27,6 +29,9 @@
     text-align: center;
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
+    margin-bottom: 0;
+    
+
 
 }
 .Service p
