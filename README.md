@@ -2,7 +2,7 @@
   
 # Assignment project Vite + JavaScript + JQuery + Html + Css
 
-<img src="./public/images/screen_project.png" alt="Assignment Website" width="800" />
+<img src="./public/images/screen__project.png" alt="Assignment Website" width="800" />
 
 </div>
 
