@@ -10,19 +10,19 @@ export default function Slider() {
     Slider.className = 'slider';
     Slider.innerHTML = `
         <div class="slider__slide">
-            <img src="../../public/images/Silider/binance.png" alt="placeholder image">
+            <img src="/images/Silider/binance.png" alt="placeholder image">
         </div>
         <div class="slider__slide">
-            <img src="../../public/images/Silider/bitforex.png" alt="placeholder image">
+            <img src="/images/Silider/bitforex.png" alt="placeholder image">
         </div>
         <div class="slider__slide">
-            <img src="../../public/images/Silider/bitpanda.png" alt="placeholder image">
+            <img src="/images/Silider/bitpanda.png" alt="placeholder image">
         </div>
         <div class="slider__slide">
-            <img src="../../public/images/Silider/coinbase.png" alt="placeholder image">
+            <img src="/images/Silider/coinbase.png" alt="placeholder image">
         </div>
         <div class="slider__slide">
-            <img src="../../public/images/Silider/cordura.png" alt="placeholder image">
+            <img src="/images/Silider/cordura.png" alt="placeholder image">
         </div>
     `;
 

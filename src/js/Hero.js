@@ -7,7 +7,7 @@ export default function Hero() {
         
             <nav>
             <a class="logo" href="/">LOGO</a>
-            <a class="email href="mailto:support@yourbrand.com" ><img class="email-icon" src="../../public/images/email.png" alt="Email Icon"> <p class="email-name">  support@yourbrand.com </p></a>
+            <a class="email href="mailto:support@yourbrand.com" ><img class="email-icon" src="/images/email.png" alt="Email Icon"> <p class="email-name">  support@yourbrand.com </p></a>
             
             </nav>
             <div class="Hero">
@@ -19,7 +19,7 @@ export default function Hero() {
             <input type="email" placeholder="Your Email Address Here...">
             <button class="bott">Yes! Download This Now!</button>
             </form>
-            <img class="header_img" src="../../public/images/image_hero.png" alt="placeholder image">
+            <img class="header_img" src="/images/image_hero.png" alt="placeholder image">
     `;
     $(document).ready(function() {
         
