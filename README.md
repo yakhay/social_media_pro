@@ -41,7 +41,7 @@ npm run dev
 ```
 # Hosting URL Vercel:
 
-[Assignment project Vite + JavaScript + JQuery + Html + Css](https://social-media-pro-git-main-yakhays-projects.vercel.app/)
+[click here to see the project](https://social-media-pro-git-main-yakhays-projects.vercel.app/)
 
 </div>
 
