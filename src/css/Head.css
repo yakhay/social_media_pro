@@ -113,11 +113,10 @@ form button
     transform: scaleX(-1);
     z-index: -1;
     width: 761.2px;
-    
     top: -5px;
     left: 560px;
     gap: 0px;
-    opacity: 0px;
+    
 
 
 }
@@ -128,7 +127,6 @@ form button
     top: 59px;
     left: 1189px;
     gap: 0px;
-    opacity: 0px;
     margin-right: 10px;
 }
 

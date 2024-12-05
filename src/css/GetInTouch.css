@@ -71,8 +71,6 @@ li
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
     width: 641px;
-    /* line-height: 1.5; */
-
 }
 
 @media (max-width: 1203px) and (min-width: 768px) {

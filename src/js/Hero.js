@@ -41,5 +41,17 @@ export default function Hero() {
             }
         );
     });
+    $(document).ready(function() {
+    $('.header_img')
+        .hide()
+        .css({
+            'transform': 'scaleX(-1) translateY(50px)',
+        })
+        .fadeIn(2000)
+        .css('transition', 'transform 1s ease, opacity 1s ease') 
+        .css({
+            'transform': 'scaleX(-1) translateY(0)',
+        });
+    });
     return header;
 }

@@ -1,11 +1,11 @@
-import '../css/Slider.css'; // Your custom slider styles
-import 'slick-carousel/slick/slick.css'; // Slick slider CSS
-import 'slick-carousel/slick/slick-theme.css'; // Optional: Slick theme
+import '../css/Slider.css'; 
+import 'slick-carousel/slick/slick.css'; 
+import 'slick-carousel/slick/slick-theme.css';
 import $ from 'jquery';
 import 'slick-carousel';
 
 export default function Slider() {
-    // Create the slider container
+    
     const Slider = document.createElement('div');
     Slider.className = 'slider';
     Slider.innerHTML = `
@@ -34,7 +34,7 @@ export default function Slider() {
             slidesToShow: 4,
             slidesToScroll: 1,
             autoplay: true,
-            autoplaySpeed: 1000,
+            autoplaySpeed: 500,
             arrows: false,
             responsive: [
                 {
